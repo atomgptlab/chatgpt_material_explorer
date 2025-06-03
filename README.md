@@ -1,25 +1,6 @@
 # CME: ChatGPT Material Explorer 1.0  
 
-**CME 1.0** is a specialized assistant for material science research. It helps users explore material properties, crystal structures, phase diagrams, and computational simulations. It provides data from sources like **JARVIS-DFT, AFLOW, C2DB, and Alexandria** etc. to assist in material selection, comparison, and application.  
-
-## 📺 Related YouTube Playlist
-
-[🎥 Watch the Playlist on YouTube](https://www.youtube.com/playlist?list=PLjf6vHVv7AoK22-cHlApfBpSKBf6oBg4A)
-
-
-## 🔹 Key Features  
-- ✅ Fetching material properties (density, energy, bulk modulus)  
-- ✅ Identifying crystal structures and space groups  
-- ✅ Predicting bandgaps and formation energy  
-- ✅ Guiding simulations (DFT, MD, phase stability)  
-- ✅ Recommending experimental techniques  
-
-### 🔬 Ideal For  
-Researchers, engineers, and students working on material discovery and characterization. ✨  
-
-### Note: 
-
-Some features may require ChatGPT subscription for compute capacity.
+**CME 1.0** is a domain-specific custom GPT on the GPT-4o architecture. CME is developed with several key objectives in mind: (1) lowering the barrier to entry for AI-assisted materials research, (2) integrating experimental and computational data pipelines, and (3) reducing the risk of hallucination by interfacing with real-time databases and using physics-aware modeling approaches with many more potential additions in the future.
 
 
 # ChatGPT Material Exlorer Example Prompts:
@@ -49,8 +30,15 @@ Cartesian
 6. Can you explain the band structure of silicon?
 7. Retrieve materials with the chemical formula Al2O3 from the JARVIS-DFT database and summarize their properties.
 8. Find all materials containing chemical formula MoS2 in the JARVIS-DFT, Materials Project, COD and C2DB databases and their total number. Present them all in individual table format.
+9. Get IUPAC name for CC(=O)OC1=CC=CC=C1C(=O)O
+10. Get me the molecular formula for aspirin
 
 (If you good prompts worth sharing with others, make a pull request to this README file)
+
+
+# 📺 Related YouTube Playlist
+
+[🎥 Watch the Playlist on YouTube](https://www.youtube.com/playlist?list=PLjf6vHVv7AoK22-cHlApfBpSKBf6oBg4A)
 
 # Feedback/suggestions
 If you have any suggestions/feedback, please fill this form:
