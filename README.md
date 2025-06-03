@@ -40,12 +40,7 @@ Cartesian
 
 [🎥 Watch the Playlist on YouTube](https://www.youtube.com/playlist?list=PLjf6vHVv7AoK22-cHlApfBpSKBf6oBg4A)
 
-# Feedback/suggestions
-If you have any suggestions/feedback, please fill this form:
 
-[https://forms.gle/Dw45bpMSJQeZ2ABw7](https://forms.gle/Dw45bpMSJQeZ2ABw7)
-
-(More details coming soon)
 
 # Disclaimer: 
 
