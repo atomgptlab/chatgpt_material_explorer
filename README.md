@@ -3,7 +3,7 @@
 **CME 1.0** is a domain-specific custom GPT on the GPT-4o architecture. CME is developed with several key objectives in mind: (1) lowering the barrier to entry for AI-assisted materials research, (2) integrating experimental and computational data pipelines, and (3) reducing the risk of hallucination by interfacing with real-time databases and using physics-aware modeling approaches with many more potential additions in the future.
 
 
-
+Paper link: https://link.springer.com/article/10.1007/s40192-025-00410-9
 
 # Comparison between GPT-4o and ChatGPT Material Explorer
 
